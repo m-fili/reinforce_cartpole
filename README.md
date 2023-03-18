@@ -11,6 +11,9 @@ In this project we use policy-based reinforcement learning methods to solve the 
 * angle of pole 
 * rotation rate of pole.
 
+### Method
+To train the agent, a gradient-based algorithm called REINFORCE is used.
+
 ### Installation
 please use the following code to install the packages needed:
 
